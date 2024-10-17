@@ -1,4 +1,4 @@
-# AP2 - Ex2: Let'sTalk
+# Let'sTalk - A Real-Time Chat Web Application
 ## By Ariel Moshayev, Shaked Maman and Lior Bazak.
 This project is a chat application that allows users to create accounts and chat with other users.
 
