@@ -1,0 +1,14 @@
+#register-input-field-popover  {
+    padding-top: 5px;
+}
+
+#register-popover-content {
+    display: flex;
+    text-align: center;
+    font-size: large;
+    color: red;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+}
+

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+#login-body {
+    display: flex;
+    justify-content: center ;
+    position: relative;
+    padding: 3% 15% 3% 15%;
+    background-color: whitesmoke;
+    height: 100%;
+    width: 100%;
+}
+
+#login-screen-container {
+    max-width: 650px;
+    background-color: transparent;
+    z-index: 1;
+}
+
+.login-row {
+    border: 0px;
+    border-radius: 20px;
+    box-shadow: 12px 7px 15px #84E5EC;
+    z-index: 1;
+}
+
+#login-col {
+    padding: 5% 10% 0% 10%;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background: white;
+}
+
+
+
+

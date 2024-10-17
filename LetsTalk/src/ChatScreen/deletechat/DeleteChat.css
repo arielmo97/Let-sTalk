@@ -1,0 +1,19 @@
+#popup-modal-dialog {
+    width: 350px;
+}
+
+
+#popup-modal-body {
+    width: 300px !important;
+    border-radius: 10px;
+    border-color: gray;
+    border-width: thin;
+    padding-left: 10px;
+}
+
+#delete-btn-primary button{
+    background-color: blue;
+}
+#delete-btn-danger button{
+    background-color: red;
+}

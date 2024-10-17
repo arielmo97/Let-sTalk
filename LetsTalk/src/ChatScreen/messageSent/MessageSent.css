@@ -1,0 +1,23 @@
+.img-cont-msg {
+    height: 40px;
+    width: 40px;
+}
+
+.msg-cotainer-send {
+    min-width: 50px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 10px;
+    border-radius: 25px 25px 0 25px;
+    background-color: #78e08f;
+    padding: 5px 10px 15px;
+    position: relative;
+}
+
+.msg-time-send {
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+    color: rgba(5, 5, 5, 0.8);
+    font-size: 10px;
+}

@@ -1,0 +1,20 @@
+.card-header {
+    border-radius: 15px 15px 0 0 !important;
+    border-bottom: 0 !important;
+}
+
+.add-contact {
+    margin-left: auto !important;
+}
+
+.current-user-name {
+    padding: 5px 5px 5px 15px;
+}
+
+.upper-header {
+    margin-bottom: 5px !important;
+}
+
+.my-pic {
+    float: left !important;
+}

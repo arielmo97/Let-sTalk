@@ -1,0 +1,36 @@
+.chat {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 90%;
+}
+
+.empty-coversation-window {
+    position: relative;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.empty-conversation-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+#empty-conversation-logo-img {
+    width: 50%;
+
+}
+
+#empty-conversation-logo-text {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 4rem;
+    text-shadow: 3px 3px 3px black;
+    color:white;
+}

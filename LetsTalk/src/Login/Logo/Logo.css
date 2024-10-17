@@ -1,0 +1,35 @@
+#login-logo-col {
+    height: 150px;
+    padding: 0% 10%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background: linear-gradient(to top, #ffffff, #84E5EC);
+}
+
+#login-image-container {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    padding: 5% 10%;
+}
+
+#login-logo-img {
+    width: 30%;
+    height: 30%;
+    margin-right: 10px;
+}
+
+#login-logo-txt {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 3.5rem;
+    text-shadow: 4px 2px black;
+    position: relative;
+}

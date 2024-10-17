@@ -1,0 +1,44 @@
+.user-img {
+    height: 50px;
+    width: 50px;
+    border: 1.5px solid #f5f6fa;
+}
+
+.user-time {
+    display: block;
+    font-size: 13px;
+}
+
+.user-msg-time {
+    float: right;
+}
+
+.img-cont {
+    position: relative;
+    height: 50px;
+    width: 50px;
+}
+
+.user-info {
+    /*margin-top: auto;*/
+    margin-bottom: auto;
+    margin-left: 15px;
+}
+
+.user-info span {
+    font-size: 16px;
+    color: black;
+}
+
+.user-info .badge {
+    color: white;
+}
+
+.user-info small {
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    color: rgba(0 0, 0, 0.6);
+}

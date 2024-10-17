@@ -1,0 +1,20 @@
+#popup-modal-dialog {
+    width: 350px;
+}
+
+.modal-body ::placeholder {
+    font-size: 15px;
+}
+
+#popup-modal-body input {
+    width: 300px !important;
+    border-radius: 10px;
+    border-color: gray;
+    border-width: thin;
+    padding-left: 10px;
+}
+
+
+#popup-modal-footer button {
+    background-color: rgb(158, 157, 157);
+}

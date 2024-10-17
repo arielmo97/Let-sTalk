@@ -1,0 +1,16 @@
+#login-input-bar-popover {
+    padding-top: 5px;
+}
+
+#login-popover-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+    color: red;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: transparent;
+}

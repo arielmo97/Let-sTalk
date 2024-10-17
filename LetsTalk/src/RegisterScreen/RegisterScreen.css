@@ -1,0 +1,42 @@
+#root {
+    height: 100%;
+}
+
+
+#register-body {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 15%;
+    padding-right: 15%;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background: whitesmoke;
+    overflow: auto;
+}
+
+#register-screen-container {
+    max-width: 900px;
+    padding: 0px;
+    border-radius: 10px;
+    background-color: transparent;
+    justify-content: center;
+    position: relative;
+    box-shadow: 20px 10px 15px gray;
+    z-index: 1;
+
+}
+
+#register-row {
+    border-radius: 10px;
+}
+
+.register-col {
+    align-items: center;
+    justify-content: center;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: relative;
+}

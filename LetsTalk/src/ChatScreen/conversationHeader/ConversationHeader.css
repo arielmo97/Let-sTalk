@@ -1,0 +1,64 @@
+.user-active-img {
+    height: 70px;
+    width: 70px;
+    border: 1.5px solid #f5f6fa;
+}
+
+.img-cont-active {
+    position: relative;
+    height: 70px;
+    width: 70px;
+
+}
+
+.user-info-active {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 15px;
+
+}
+
+.user-info-active span {
+    font-size: 20px;
+    color: black;
+}
+
+.msg-head {
+    position: relative;
+    padding: 13px 16px;
+}
+
+.online-icon {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    background-color: #4cd137;
+    border-radius: 50%;
+    bottom: 0.2em;
+    right: 0.4em;
+    border: 1.5px solid white;
+}
+.video-cam {
+    margin-left: auto;
+    margin-top: 3px;
+}
+
+.video-cam span {
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+.delete-btn {
+    position: absolute;
+    right: 25px;
+    top: 10px;
+    color: black;
+    cursor: pointer;
+    font-size: 25px;
+    margin-top: 1%;
+}
+#delete-contact-btn{
+    border: 0px;
+    background-color: transparent;
+}
