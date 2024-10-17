@@ -1,5 +1,5 @@
 # AP2 - Ex2: Let'sTalk
-## By Lior Bazak, Shaked Maman and Ariel Moshayev.
+## By Ariel Moshayev, Shaked Maman and Lior Bazak.
 This project is a chat application that allows users to create accounts and chat with other users.
 
 our chat application, called Let'sTalk is a web-based messanger app that was built using:
